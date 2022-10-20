@@ -11,6 +11,6 @@ pip install -r requirements.txt
 ```
 python -m problems.p#
 ```
-where # is a number from 001 - 006.
+where # is a number from 001 - 008.
 ### Output
 Output will be the answer for the ROSALIND question, in the correct format.
